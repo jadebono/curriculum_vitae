@@ -129,8 +129,7 @@
 
 ## `Interviews`
 
-1. Mallia, J. (14 July 2022). Episodju 058 ma’ Joe Anthony Debono | Jon Mallia Podcast. YouTube.  
-   Available at: https://www.youtube.com/watch?v=rvbwPxWT9TY&t=1s  
+1. Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia Podcast.](https://www.youtube.com/watch?v=rvbwPxWT9TY&t=1s) YouTube.  
    [Accessed 17 August 2023].
 
 ---
@@ -144,36 +143,75 @@
 
 ## `Conferences and Seminars`
 
-1. **Date:** 26-27 April 2021  
-   **Event:** Blockchain Research Workshop 2021 (Online)  
-   **Participating institutions:** [University of Malta.](https://www.um.edu.mt/), [University of Tel Aviv](https://english.tau.ac.il/), [Berlin University of Applied Sciences](https://www.srh-berlin.de/en/)  
-   **Role:** Presentation
-1. **Date:** 10-11 October 2019  
-   **Event:** [Blockchain & Artificial Intelligence: Where are they taking us?](https://azure-rock.com/bc-ai-conference-2019/)  
-   **Organising institution:** [Working Town](https://www.facebook.com/workingtown/)  
-   **Role**: Panellist  
-   **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
-1. **Date:** 7-11 July 2017  
-   **Event:** Classics in the Curriculum, INSET Course  
-   **Organising institution:** [Department of Education](https://education.gov.mt/)  
-   **Role:** Organiser and lecturer  
-   **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
+1. **Event:** Blockchain Research Workshop 2021 (Online)  
+   **Date:** 26-27 April 2021  
+    **Participating institutions:** [University of Malta.](https://www.um.edu.mt/), [University of Tel Aviv](https://english.tau.ac.il/), [Berlin University of Applied Sciences](https://www.srh-berlin.de/en/)  
+    **Role:** Presentation
+1. **Event:** [Blockchain & Artificial Intelligence: Where are they taking us?](https://azure-rock.com/bc-ai-conference-2019/)  
+   **Date:** 10-11 October 2019  
+    **Organising institution:** [Working Town](https://www.facebook.com/workingtown/)  
+    **Role**: Panellist  
+    **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
+1. **Event:** Classics in the Curriculum, INSET Course  
+   **Date:** 7-11 July 2017  
+    **Organising institution:** [Department of Education](https://education.gov.mt/)  
+    **Role:** Organiser and lecturer  
+    **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
 
 ---
 
 ## `Public Lectures and Presentations`
 
+1.  **Event**: DLT and the DLT Sector in Malta  
+    **Date:** 12 March 2019  
+    **On behalf of:** [Malta Association of Small Shareholders](https://mass.org.mt/), Retail Investment Education  
+    **Place:** [Malta Stock Exchange](https://www.borzamalta.com.mt/), Valletta, Malta 1.**Date:** 12 March 2019
+1.  **Event**: [A Concise Look at DLT and the Emerging Maltese Ecosystem](https://engage.isaca.org/maltachapter/events/eventdescription?CalendarEventKey=27387aa1-dd4e-4301-9854-3cda51cdfa1b&CommunityKey=5c85c2fd-1e6b-4793-8b66-64703b4c666e)  
+     **Date:** 17 January 2019  
+     **On behalf of:** [ISACA, Malta](https://engage.isaca.org/maltachapter/home)  
+     **Place:** Smart City, Kalkara, Malta
+1.  **Event**: Blockchain, Cryptocurrencies and Smart Contracts  
+    **Date:** 2 August 2018  
+     **On behalf of:** [Kyte Consultants](https://kyte.global/)  
+     **Place:** Premises of Kyte Consultants, Birkirkara, Malta
+1.  **Event**: Blockchain - An Introductory Presentation  
+    **Date:** 21 October 2017  
+     **On behalf of:** [Institute of Legal Studies](https://www.facebook.com/ILSMalta/)  
+     **Place:** Valletta, Malta
+
 ---
 
 ## `Other Certifications`
 
----
+1. **Certification**: [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
+   **Date:** 2022  
+   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
+    **Institution:** [Malta College of Arts, Science and Technology (MCAST)](https://mcast.edu.mt/)  
+   **Grade:** Distinction
+1. **Certification**: [Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
+   **Date:** 2020  
+   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 7](https://europa.eu/europass/en/description-eight-eqf-levels)  
+    **Institution:** [Advisory 21](https://www.advisory21.com.mt/)
+1. **Certification**: Introduction to the Virtual Financial Assets Act  
+   **Date:** 2018  
+   **Institution:** [The Institute of Financial Services Practitioners.](https://ifsp.org.mt/)
+1. **Certification**: [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
+   **Date:** 2018  
+   **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
 
 ## `Projects`
 
----
+**Project:** The design, implementation and launch of the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies)  
+ **Date**: 2009-2011
+
+**Notes:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned to design and implement this syllabus.
 
 ## `Community`
+
+**Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)
+**Date:** 2010
+
+**Notes:** Before I launched the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) syllabus, I proposed to set up a new NGO, [Malta Classics Association](https://classicsmalta.org/), to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
 
 ---
 
@@ -181,14 +219,47 @@
 
 ### `Natural`
 
+(in ascending order of acquisition)
+
+1. Maltese
+1. English
+1. Italian
+1. French
+1. Latin
+1. Ancient Greek
+
 ### `Programming`
+
+(in ascending order of acquisition)
+
+1. HTML
+1. CSS
+1. Python
+1. Javascript (with Node and React)
+1. Solidity
+1. Golang
+
+### `Operating Systems`
+
+(in descending order of preference)
+
+1. Linux (Debian, and on occasion one of its main forks)
+1. MacOs
+1. Windows
+
+**Notes:** I use Linux almost exclusively except when employers/colleagues require collaboration on another OS.
 
 ---
 
 ## `Digital Skills`
 
+Strong skills in all areas of computer use, growing knowledge of computer programming, including object oriented languages, and smart contract programming. Interest in combining the study of the Humanities and Law with digital skills. Special interests: Blockchain/DLT, smart contract programming, full stack development, training non-coders in principles of programming.
+
 ---
 
 ## `Github`
+
+- **Github account:** [jadebono](https://github.com/jadebono)
+- **Curriculum vitae on Github:** [Joseph Anthony Debono's Curriculum Vitae](https://github.com/jadebono/curriculum_vitae)
 
 ---
