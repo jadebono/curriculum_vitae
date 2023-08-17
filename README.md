@@ -105,7 +105,7 @@
 
 1. Unpublished paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), February 1999.
 1. Debono, J. A. (1999). [An overview of a problem in Hospitaller naval historiography.](https://www.um.edu.mt/library/oar/handle/123456789/51507) Humanitas: Journal of the Faculty of Arts, 1, 189-197.
-1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent 14th February, (2010).
+1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent, 14th February, (2010).
 1. Pros Tous Pateras – a set of textbooks for the [Classical Studies Intermediate Syllabus]([Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies)).
 
 ### `Media`
