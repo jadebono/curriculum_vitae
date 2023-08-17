@@ -200,14 +200,14 @@
 **Project:** The design, implementation and launch of the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies)  
  **Date**: 2009-2011
 
-**Notes:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned to design and implement this syllabus.
+**Note:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned to design and implement this syllabus.
 
 ## `Community`
 
 **Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)
 **Date:** 2010
 
-**Notes:** Before I launched the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) syllabus, I proposed to set up a new NGO, [Malta Classics Association](https://classicsmalta.org/), to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
+**Note:** Before I launched the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) syllabus, I proposed to set up a new NGO, [Malta Classics Association](https://classicsmalta.org/), to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
 
 ---
 
@@ -243,7 +243,7 @@
 1. MacOs
 1. Windows
 
-**Notes:** I use Linux almost exclusively except when employers/colleagues require collaboration on another OS.
+**Note:** I use Linux almost exclusively except when employers/colleagues require collaboration on another OS.
 
 ---
 
