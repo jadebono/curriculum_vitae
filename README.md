@@ -1,8 +1,8 @@
 # `Curriculum Vitae of Joseph Anthony Debono`
 
-**Address**: 43, St. Joseph, Tal-Mirakli Street Lija, LJA1600, Malta, EU  
+**Address**: Redacted for security purposes. Request by email if necessary.
 **Email**: [joe@jadebono.com](joe@jadebono.com)  
-**Mobile Number**: +356 79913330
+**Mobile Number**: Redacted for security purposes. Request by email if necessary.
 
 ---
 
@@ -152,8 +152,7 @@
 1. **Event:** Classics in the Curriculum, INSET Course  
    **Date:** 7-11 July 2017  
     **Organising institution:** [Department of Education](https://education.gov.mt/)  
-    **Role:** Organiser and lecturer  
-
+    **Role:** Organiser and lecturer
 
 ---
 
