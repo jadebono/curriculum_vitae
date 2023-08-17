@@ -35,9 +35,32 @@
 
 ## `Teaching and Lecturing`
 
-### `Teaching`
+### `Teaching Warrant`
+
+**Professional accreditation:** Teaching Warrant No. 8050, [Government of Malta](https://www.servizz.gov.mt/en/Pages/Education_-Science-and-Technology/Education-Services/Educational-Support-Services/WEB599/default.aspx)
 
 ### `Lecturing`
+
+1.  **Post**: Academic (TR4) Assistant Lecturer in Blockchain Education Studies for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
+    **Appointment**: 6 March 2023 - 6 March 2024  
+    **Teaching load:**
+    - **DLT5000:** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics)
+    - **DLT5001:** Applied Project (grading of projects)
+    - **DLT5141:** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
+1.  **Post:** Visiting Assistant Lecturer, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
+    **Appointment:** 2011-2012  
+    **Teaching load:**
+    - Classical Mythology in Pictorial Art
+1.  **Post:** Visiting Assistant Lecturer, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
+    **Appointment:** 2011  
+     **Teaching load:**
+    - **DGP0400:** [Lingua Latina ab Initio](https://www.um.edu.mt/courses/studyunit/dgp0400) (Course initiator)
+1.  **Post:** Visiting Assistant Lecturer, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
+    **Appointment:** 2011-2013  
+     **Teaching load:**
+    - [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
+
+### `Teaching`
 
 ### `Subjects at Secondary Level`
 
