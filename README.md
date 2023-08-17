@@ -6,7 +6,9 @@
 
 ---
 
-## `Degrees`
+## `Education`
+
+### `Degrees`
 
 1. **Degree:** <u>MSc Blockchain and DLT</u>  
    **Graduation:** 2020  
@@ -31,15 +33,33 @@
    **Supervisor:** [Professor Victor Mallia Milanes](https://www.um.edu.mt/profile/victormalliamilanes)  
    **Grade:** Egregia cum Laude (2nd Class Upper)
 
+### `Other Certifications`
+
+1. **Certification**: [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
+   **Date:** 2022  
+   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
+    **Institution:** [Malta College of Arts, Science and Technology (MCAST)](https://mcast.edu.mt/)  
+   **Grade:** Distinction
+1. **Certification**: [Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
+   **Date:** 2020  
+   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 7](https://europa.eu/europass/en/description-eight-eqf-levels)  
+    **Institution:** [Advisory 21](https://www.advisory21.com.mt/)
+1. **Certification**: Introduction to the Virtual Financial Assets Act  
+   **Date:** 2018  
+   **Institution:** [The Institute of Financial Services Practitioners.](https://ifsp.org.mt/)
+1. **Certification**: [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
+   **Date:** 2018  
+   **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
+
 ---
 
-## `Teaching and Lecturing`
+## `Work Experience`
 
 ### `Teaching Warrant`
 
 **Professional accreditation:** Teaching Warrant No. 8050, [Government of Malta](https://www.servizz.gov.mt/en/Pages/Education_-Science-and-Technology/Education-Services/Educational-Support-Services/WEB599/default.aspx)
 
-### `Lecturing`
+### `Academic`
 
 1.  **Post**: Academic (TR4) Assistant Lecturer in Blockchain Education Studies for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
     **Appointment**: 6 March 2023 - 6 March 2024  
@@ -65,17 +85,6 @@
 1. 1997-1998, 1999-2006 [St Clare College Secondary School, Pembroke, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-clare-college-pembroke-secondary-school)
 1. 2009-2017, [St Thomas More College Secondary School, Zejtun, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-thomas-more-college-zejtun-secondary-school)
 1. 2018-2019, 2020-current, [San Ġorġ Preca College Secondary School, Hamrun, Malta](https://edumalta.gov.mt/en/schools/state-schools/san-gorg-preca-college-hamrun-secondary)
-
-### `Subjects at Secondary Level`
-
-- European Studies
-- History General
-- History Option
-- ICT
-
-### `Mentoring`
-
-[Paideia Legionnaire](https://www.paideiainstitute.org/legion), a mentoring programme for Classicists by Classicists around the world. I mentor Classicists in acquiring the technical skills to make the transition from a Classics degree into work in the computer/technology sector.
 
 ---
 
@@ -120,13 +129,6 @@
    [Accessed 17 August 2023].
 
 **Note:** A regular column on cryptocurrency, blockchain, Law and the Humanities on the [Coinrivet](https://coinrivet.com/) website, an industry publication. The then editor of Coinrivet was at a conference at which I was a panellist, and commissioned me to write a regular column reflecting on technology and its development through the lenses of the Humanities and Law.
-
----
-
-## `Interviews`
-
-1. Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia Podcast.](https://www.youtube.com/watch?v=rvbwPxWT9TY&t=1s) YouTube.  
-   [Accessed 17 August 2023].
 
 ---
 
@@ -177,23 +179,12 @@
 
 ---
 
-## `Other Certifications`
+## `Interviews`
 
-1. **Certification**: [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
-   **Date:** 2022  
-   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
-    **Institution:** [Malta College of Arts, Science and Technology (MCAST)](https://mcast.edu.mt/)  
-   **Grade:** Distinction
-1. **Certification**: [Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
-   **Date:** 2020  
-   **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 7](https://europa.eu/europass/en/description-eight-eqf-levels)  
-    **Institution:** [Advisory 21](https://www.advisory21.com.mt/)
-1. **Certification**: Introduction to the Virtual Financial Assets Act  
-   **Date:** 2018  
-   **Institution:** [The Institute of Financial Services Practitioners.](https://ifsp.org.mt/)
-1. **Certification**: [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
-   **Date:** 2018  
-   **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
+Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia Podcast.](https://www.youtube.com/watch?v=rvbwPxWT9TY&t=1s) YouTube.  
+ [Accessed 17 August 2023].
+
+---
 
 ## `Projects`
 
@@ -202,12 +193,20 @@
 
 **Note:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned to design and implement this syllabus.
 
+---
+
 ## `Community`
+
+### `Organisation`
 
 **Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)
 **Date:** 2010
 
 **Note:** Before I launched the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) syllabus, I proposed to set up a new NGO, [Malta Classics Association](https://classicsmalta.org/), to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
+
+### `Mentoring`
+
+[Paideia Legionnaire](https://www.paideiainstitute.org/legion), a mentoring programme for Classicists by Classicists around the world. I mentor Classicists in acquiring the technical skills to make the transition from a Classics degree into work in the computer/technology sector.
 
 ---
 
