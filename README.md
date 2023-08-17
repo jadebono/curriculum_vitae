@@ -1,6 +1,6 @@
 # `Curriculum Vitae of Joseph Anthony Debono`
 
-**Address**: Redacted for security purposes. Request by email if necessary.
+**Address**: Redacted for security purposes. Request by email if necessary.  
 **Email**: [joe@jadebono.com](joe@jadebono.com)  
 **Mobile Number**: Redacted for security purposes. Request by email if necessary.
 
