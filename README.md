@@ -110,17 +110,13 @@
 
 ### `Media`
 
-1. Debono, J. (6 March 2020). **Between Deplorables.** CoinRivet.  
-   Available at: https://coinrivet.com/between-deplorables/  
+1. Debono, J. (6 March 2020). [Between Deplorables.](https://coinrivet.com/between-deplorables/) CoinRivet.  
    [Accessed 17 August 2023].
-1. Debono, J. (5 February 2020). **Bitcoin's Future.** CoinRivet.  
-   Available at: https://coinrivet.com/bitcoins-future-could-be-rooted-in-platos-philosophies/  
+1. Debono, J. (5 February 2020). [Bitcoin's Future.](https://coinrivet.com/bitcoins-future-could-be-rooted-in-platos-philosophies/) CoinRivet.  
    [Accessed 17 August 2023].
-1. Debono, J. (5 December 2019). **A Whiff of Grapeshot.** CoinRivet.  
-   Available at: https://coinrivet.com/a-whiff-of-grapeshot/  
+1. Debono, J. (5 December 2019). [A Whiff of Grapeshot.](https://coinrivet.com/a-whiff-of-grapeshot/) CoinRivet.  
    [Accessed 17 August 2023].
-1. Debono, J. (15 November 2020). **Blockchain on the Arno.** CoinRivet.  
-   Available at: https://coinrivet.com/blockchain-on-the-arno/  
+1. Debono, J. (15 November 2020). [Blockchain on the Arno.](https://coinrivet.com/blockchain-on-the-arno/) CoinRivet.  
    [Accessed 17 August 2023].
 
 **Note:** A regular column on cryptocurrency, blockchain, Law and the Humanities on the [Coinrivet](https://coinrivet.com/) website, an industry publication. The then editor of Coinrivet was at a conference at which I was a panellist, and commissioned me to write a regular column reflecting on technology and its development through the lenses of the Humanities and Law.
