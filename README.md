@@ -51,13 +51,13 @@
    **Date:** 2018  
    **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
 
+### `Professional Warrant`
+
+**Professional accreditation:** Teaching Warrant No. 8050, [Government of Malta](https://www.servizz.gov.mt/en/Pages/Education_-Science-and-Technology/Education-Services/Educational-Support-Services/WEB599/default.aspx)
+
 ---
 
 ## `Work Experience`
-
-### `Teaching Warrant`
-
-**Professional accreditation:** Teaching Warrant No. 8050, [Government of Malta](https://www.servizz.gov.mt/en/Pages/Education_-Science-and-Technology/Education-Services/Educational-Support-Services/WEB599/default.aspx)
 
 ### `Academic`
 
@@ -148,13 +148,12 @@
 1. **Event:** [Blockchain & Artificial Intelligence: Where are they taking us?](https://azure-rock.com/bc-ai-conference-2019/)  
    **Date:** 10-11 October 2019  
     **Organising institution:** [Working Town](https://www.facebook.com/workingtown/)  
-    **Role**: Panellist  
-    **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
+    **Role**: Panellist
 1. **Event:** Classics in the Curriculum, INSET Course  
    **Date:** 7-11 July 2017  
     **Organising institution:** [Department of Education](https://education.gov.mt/)  
     **Role:** Organiser and lecturer  
-    **Place**: [Villa Bologna](https://villabologna.com/), Attard, Malta
+
 
 ---
 
@@ -162,20 +161,17 @@
 
 1.  **Event**: DLT and the DLT Sector in Malta  
     **Date:** 12 March 2019  
-    **On behalf of:** [Malta Association of Small Shareholders](https://mass.org.mt/), Retail Investment Education  
-    **Place:** [Malta Stock Exchange](https://www.borzamalta.com.mt/), Valletta, Malta 1.**Date:** 12 March 2019
+    **On behalf of:** [Malta Association of Small Shareholders](https://mass.org.mt/), Retail Investment Education
 1.  **Event**: [A Concise Look at DLT and the Emerging Maltese Ecosystem](https://engage.isaca.org/maltachapter/events/eventdescription?CalendarEventKey=27387aa1-dd4e-4301-9854-3cda51cdfa1b&CommunityKey=5c85c2fd-1e6b-4793-8b66-64703b4c666e)  
      **Date:** 17 January 2019  
-     **On behalf of:** [ISACA, Malta](https://engage.isaca.org/maltachapter/home)  
-     **Place:** Smart City, Kalkara, Malta
+     **On behalf of:** [ISACA, Malta](https://engage.isaca.org/maltachapter/home)
 1.  **Event**: Blockchain, Cryptocurrencies and Smart Contracts  
     **Date:** 2 August 2018  
      **On behalf of:** [Kyte Consultants](https://kyte.global/)  
      **Place:** Premises of Kyte Consultants, Birkirkara, Malta
 1.  **Event**: Blockchain - An Introductory Presentation  
     **Date:** 21 October 2017  
-     **On behalf of:** [Institute of Legal Studies](https://www.facebook.com/ILSMalta/)  
-     **Place:** Valletta, Malta
+     **On behalf of:** [Institute of Legal Studies](https://www.facebook.com/ILSMalta/)
 
 ---
 
@@ -191,7 +187,7 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 **Project:** The design, implementation and launch of the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies)  
  **Date**: 2009-2011
 
-**Note:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned to design and implement this syllabus.
+**Note:** I proposed this syllabus to the University of Malta as a soft landing to prepare pre-university students for the rigour of the university's [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. The idea was to raise the number of students taking and finishing the degree successfully. My proposal was accepted by the then rector of the University, [Professor Juanito Camilleri](https://www.um.edu.mt/profile/juanitocamilleri), who commissioned me to design and implement this syllabus. The syllabus was then launched and made available to all post-secondary institutions in Malta.
 
 ---
 
@@ -202,7 +198,7 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 **Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)
 **Date:** 2010
 
-**Note:** Before I launched the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) syllabus, I proposed to set up a new NGO, [Malta Classics Association](https://classicsmalta.org/), to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
+**Note:** I set up the [Malta Classics Association](https://classicsmalta.org/), an NGO to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
 
 ### `Mentoring`
 
