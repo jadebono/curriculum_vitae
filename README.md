@@ -82,9 +82,9 @@
 
 ### `Teaching`
 
-1. 1997-1998, 1999-2006 [St Clare College Secondary School, Pembroke, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-clare-college-pembroke-secondary-school)
-1. 2009-2017, [St Thomas More College Secondary School, Zejtun, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-thomas-more-college-zejtun-secondary-school)
-1. 2018-2019, 2020-current, [San Ġorġ Preca College Secondary School, Hamrun, Malta](https://edumalta.gov.mt/en/schools/state-schools/san-gorg-preca-college-hamrun-secondary)
+1. 1997-1998, 1999-2006: [St Clare College Secondary School, Pembroke, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-clare-college-pembroke-secondary-school)
+1. 2009-2017: [St Thomas More College Secondary School, Zejtun, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-thomas-more-college-zejtun-secondary-school)
+1. 2018-2019, 2020-current: [San Ġorġ Preca College Secondary School, Hamrun, Malta](https://edumalta.gov.mt/en/schools/state-schools/san-gorg-preca-college-hamrun-secondary)
 
 ---
 
@@ -99,12 +99,12 @@
 
 ### `Translations`
 
-1. **On Friendship** Unpublished translation from Latin into English, with notes and appendices, of Cicero's "De Amicitia".
-1. **Dialogue on Love** Unpublished translation from the Ancient Greek and commentary and analysis of the philosophical treatise by Plutarch. Note: This translation is being used as a textbook by my permission at the [University of Patras, Greece](https://www.upatras.gr/en/), for a post graduate seminar class on Literature of the Imperial Period. Tutor of the seminar: [Professor Aristoula Georgiadou](http://philology.upatras.gr/wp-content/uploads/Georgiadou-CV-English-.pdf), Professor of Classical Philology, University of Patras.
+1. **On Friendship** - Unpublished translation from Latin into English, with notes and appendices, of Cicero's "De Amicitia".
+1. **Dialogue on Love** - Unpublished translation from the Ancient Greek and commentary and analysis of the philosophical treatise by Plutarch. Note: This translation is being used as a textbook by my permission at the [University of Patras, Greece](https://www.upatras.gr/en/), for a post graduate seminar class on Literature of the Imperial Period. Tutor of the seminar: [Professor Aristoula Georgiadou](http://philology.upatras.gr/wp-content/uploads/Georgiadou-CV-English-.pdf), Professor of Classical Philology, University of Patras.
 
 ### `Latin Composition`
 
-1. **Matrona Ephesea**, an original play in Latin. Produced and delivered at the official launch of the Malta Classics Association: 29th July 2010 at the University of Malta.
+1. **Matrona Ephesea** – an original play in Latin. Produced and delivered at the official launch of the Malta Classics Association: 29th July 2010 at the University of Malta.
 1. **Regula et Larva** – A translation from English into Latin of "The Princess and the Goblin", a Victorian fairy-tale by George Macdonald. Work in progress. The first chapter has been published in the July 2012 edition of the Malta Classics Association's newsletter.
 1. [Lucius Aurunculeius Cotta](https://la.wikipedia.org/wiki/Lucius_Aurunculeius_Cotta), Latin Wikipedia.
 1. [Franciscus Sammut](https://la.wikipedia.org/wiki/Franciscus_Sammut), Latin Wikipedia.
@@ -114,8 +114,10 @@
 
 1. Unpublished paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), February 1999.
 1. Debono, J. A. (1999). [An overview of a problem in Hospitaller naval historiography.](https://www.um.edu.mt/library/oar/handle/123456789/51507) Humanitas: Journal of the Faculty of Arts, 1, 189-197.
-1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent, 14th February, (2010).
-1. Pros Tous Pateras – a set of textbooks for the [Classical Studies Intermediate Syllabus]([Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies)).
+1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent, (14 February 2010).
+1. Pros Tous Pateras – a set of textbooks for the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies), (2013).
+1. [Part apologia, part philippic, all his Mark](https://www.independent.com.mt/articles/2016-12-05/newspaper-lifestyleculture/Part-apologia-part-philippic-All-his-Mark-6736167526), The Malta Independent, (5 December 2016).
+1. [No flight of fancy](https://www.independent.com.mt/articles/2021-08-10/newspaper-lifestyleculture/No-flight-of-fancy-6736235866), The Malta Independent, (10 August 2021).
 
 ### `Media`
 
@@ -166,8 +168,7 @@
      **On behalf of:** [ISACA, Malta](https://engage.isaca.org/maltachapter/home)
 1.  **Event**: Blockchain, Cryptocurrencies and Smart Contracts  
     **Date:** 2 August 2018  
-     **On behalf of:** [Kyte Consultants](https://kyte.global/)  
-     **Place:** Premises of Kyte Consultants, Birkirkara, Malta
+     **On behalf of:** [Kyte Consultants](https://kyte.global/)
 1.  **Event**: Blockchain - An Introductory Presentation  
     **Date:** 21 October 2017  
      **On behalf of:** [Institute of Legal Studies](https://www.facebook.com/ILSMalta/)
@@ -194,7 +195,7 @@ Mallia, J. (14 July 2022). [Episodju 058 ma’ Joe Anthony Debono | Jon Mallia P
 
 ### `Organisation`
 
-**Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)
+**Project:** Foundation of the [Malta Classics Association](https://classicsmalta.org/)  
 **Date:** 2010
 
 **Note:** I set up the [Malta Classics Association](https://classicsmalta.org/), an NGO to serve as outreach on Latin and Ancient Greek to the general public, providing not only education to the general public, but to serve as a medium through which new students might be attracted to the [BA Classics](https://www.um.edu.mt/courses/overview/UBAHCLAFT-2022-3-O) degree. I was the founding member, with membership no. 1, and I served on the committee till 2013.
