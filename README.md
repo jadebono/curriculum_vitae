@@ -64,9 +64,9 @@
 1.  **Post**: Academic (TR4) Assistant Lecturer in Blockchain Education Studies for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
     **Appointment**: 6 March 2023 - 6 March 2024  
     **Teaching load:**
-    - **DLT5000:** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics)
-    - **DLT5001:** Applied Project (grading of projects)
-    - **DLT5141:** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
+    - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics)
+    - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects)
+    - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
 1.  **Post:** Visiting Assistant Lecturer, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
     **Appointment:** 2011-2012  
     **Teaching load:**
@@ -112,7 +112,7 @@
 
 ### `Others`
 
-1. Unpublished paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), February 1999.
+1. Unpublished paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), (February 1999).
 1. Debono, J. A. (1999). [An overview of a problem in Hospitaller naval historiography.](https://www.um.edu.mt/library/oar/handle/123456789/51507) Humanitas: Journal of the Faculty of Arts, 1, 189-197.
 1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent, (14 February 2010).
 1. Pros Tous Pateras – a set of textbooks for the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies), (2013).
