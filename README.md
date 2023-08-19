@@ -74,7 +74,7 @@
 1.  **Post:** Visiting Assistant Lecturer, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
     **Appointment:** 2011  
      **Teaching load:**
-    - **DGP0400:** [Lingua Latina ab Initio](https://www.um.edu.mt/courses/studyunit/dgp0400) (Course initiator)
+    - **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
 1.  **Post:** Visiting Assistant Lecturer, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
     **Appointment:** 2011-2013  
      **Teaching load:**
