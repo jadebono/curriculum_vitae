@@ -10,7 +10,7 @@
 
 ### `Degrees`
 
-1. **Degree:** <u>MSc Blockchain and DLT</u>  
+1. **<u>MSc Blockchain and DLT</u>**  
    **Graduation:** 2020  
    **Institution:** [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
    **Stream:** Law & Regulation  
@@ -35,23 +35,25 @@
 
 ### `Other Certifications`
 
-1. **Certification**: [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
+1. [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
    **Date:** 2022  
    **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
     **Institution:** [Malta College of Arts, Science and Technology (MCAST)](https://mcast.edu.mt/)  
    **Grade:** Distinction
-1. **Certification**: [Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
+1. [Award in Company Law Fundamentals](https://www.advisory21.com.mt/21-academy/21-academy-time-table/award-in-company-law-fundamentals/)  
    **Date:** 2020  
    **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 7](https://europa.eu/europass/en/description-eight-eqf-levels)  
     **Institution:** [Advisory 21](https://www.advisory21.com.mt/)
-1. **Certification**: Introduction to the Virtual Financial Assets Act  
+1. Introduction to the Virtual Financial Assets Act  
    **Date:** 2018  
    **Institution:** [The Institute of Financial Services Practitioners.](https://ifsp.org.mt/)
-1. **Certification**: [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
+1. [Oxford Blockchain Strategy Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-blockchain-strategy-programme)  
    **Date:** 2018  
    **Institution:** [Saïd Business School, University of Oxford.](https://www.sbs.ox.ac.uk/)
 
-### `Professional Warrant`
+---
+
+## `Professional Warrant`
 
 **Professional accreditation:** Teaching Warrant No. 8050, [Government of Malta](https://www.servizz.gov.mt/en/Pages/Education_-Science-and-Technology/Education-Services/Educational-Support-Services/WEB599/default.aspx)
 
@@ -59,32 +61,29 @@
 
 ## `Work Experience`
 
-### `Academic`
-
-1.  **Post**: Academic (TR4) Assistant Lecturer in Blockchain Education Studies for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
+1.  **Post**: Full-time teacher in the secondary sector with the [Ministry for Education, Sport, Youth, Research and Innovation](https://meae.gov.mt/en/public_consultations/mede/pages/home.aspx)  
+    **Appointment**: 1997 - current  
+    **Subjects:**
+    - ICT
+    - History
+1.  **Post**: Assistant Lecturer (TR4) in Blockchain Education Studies for the [Master of Science in Blockchain and Distributed Ledger Technologies](https://www.um.edu.mt/courses/overview/PMSCBKDBFNFTT9-2022-3-O), [Centre for DLT, University of Malta](https://www.um.edu.mt/dlt/masters/)  
     **Appointment**: 6 March 2023 - 6 March 2024  
-    **Teaching load:**
+    **Units:**
     - **[DLT5000](https://www.um.edu.mt/courses/studyunit/DLT5003):** Introduction to Blockchain, DLTs and Cryptocurrencies (responsibility: various topics related to this study-unit including Bitcoin and Austrian Economics)
     - **[DLT5001](https://www.um.edu.mt/courses/studyunit/DLT5001):** Applied Project (grading of projects)
     - **[DLT5141](https://www.um.edu.mt/courses/studyunit/DLT5141):** Introduction to DLT Architecture and Decentralised Applications (responsibility: teaching coding to students without a coding background)
 1.  **Post:** Visiting Assistant Lecturer, [Department of Classics and Archaeology, Faculty of Arts, University of Malta](https://www.um.edu.mt/arts/classics-archaeo/)  
     **Appointment:** 2011-2012  
-    **Teaching load:**
+    **Units:**
     - Classical Mythology in Pictorial Art
 1.  **Post:** Visiting Assistant Lecturer, [DegreePlus, University of Malta](https://www.um.edu.mt/study/degreeplus/)  
     **Appointment:** 2011  
-     **Teaching load:**
+     **Units:**
     - **[DGP0400](https://www.um.edu.mt/courses/studyunit/dgp0400):** Lingua Latina ab Initio (Course initiator)
 1.  **Post:** Visiting Assistant Lecturer, [Junior College, University of Malta](https://www.jc.um.edu.mt/)  
     **Appointment:** 2011-2013  
-     **Teaching load:**
+     **Subjects:**
     - [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies) (Course developer and initiator)
-
-### `Teaching`
-
-1. 1997-1998, 1999-2006: [St Clare College Secondary School, Pembroke, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-clare-college-pembroke-secondary-school)
-1. 2009-2017: [St Thomas More College Secondary School, Zejtun, Malta](https://edumalta.gov.mt/en/schools/state-schools/st-thomas-more-college-zejtun-secondary-school)
-1. 2018-2019, 2020-current: [San Ġorġ Preca College Secondary School, Hamrun, Malta](https://edumalta.gov.mt/en/schools/state-schools/san-gorg-preca-college-hamrun-secondary)
 
 ---
 
@@ -112,8 +111,8 @@
 
 ### `Others`
 
-1. Unpublished paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), (February 1999).
 1. Debono, J. A. (1999). [An overview of a problem in Hospitaller naval historiography.](https://www.um.edu.mt/library/oar/handle/123456789/51507) Humanitas: Journal of the Faculty of Arts, 1, 189-197.
+1. Paper on **Dun Mikiel Xerri** – a Historical Reassessment delivered at the Official opening of an extension of the [Library of the Archbishop's Seminary, Malta](https://seminary.org.mt/library/), (February 1999).
 1. [A Forlorn Contribution to Maltese History, Review of Busuttil Joseph, Fiorini Stanley, Vella Horatio Caesar Roger, Tristia Ex Melitogaudo, Lament in Greek Verse of a XIIth-century Exile on Gozo, The Farsons Foundation](https://www.independent.com.mt/articles/2010-02-14/local-news/A-Forlorn-contribution-to-Maltese-history-270294), The Sunday Independent, (14 February 2010).
 1. Pros Tous Pateras – a set of textbooks for the [Classical Studies at Intermediate Matsec Level](https://www.jc.um.edu.mt/his-rel/aboutus/classicalstudies), (2013).
 1. [Part apologia, part philippic, all his Mark](https://www.independent.com.mt/articles/2016-12-05/newspaper-lifestyleculture/Part-apologia-part-philippic-All-his-Mark-6736167526), The Malta Independent, (5 December 2016).
