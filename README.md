@@ -35,6 +35,9 @@
 
 ### `Other Certifications`
 
+1. [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc1e491e69-cd5a-4337-90c2-4d1b9840e54e/javascript-algorithms-and-data-structures)  
+   **Date:** 2023  
+   **Institution:** [FreeCodeCamp](https://www.freecodecamp.org/)
 1. [MERN Full Stack Development Bootcamp](https://iict.mcast.edu.mt/full-stack-development-bootcamp/)  
    **Date:** 2022  
    **Level:** [EQF](https://europa.eu/europass/en/europass-tools/european-qualifications-framework) [Level 5 with 6 ECTS](https://europa.eu/europass/en/description-eight-eqf-levels)  
